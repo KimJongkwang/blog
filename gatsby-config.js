@@ -16,7 +16,7 @@ module.exports = {
       summary: `..`,
     },
     description: `데이터 분석가와 엔지니어의 모호한 경계에 있는.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://KimJongkwang.github.io/blog`,
     social: {
       github: `KimJongkwang`,
       // instagram: `srrlmnth`,
